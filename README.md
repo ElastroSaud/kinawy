@@ -4,7 +4,7 @@
 ![Mongo](https://img.shields.io/badge/-MongoDB-00EACE?style=flat-square&logo=mongodb&logoColor=47A248)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0068C8?style=flat-square&logo=node.js&logoColor=009943)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-25A768?style=flat-square&logo=graphql&logoColor=E10098)
-![Python](https://img.shields.io/badge/-Apollo GraphQL-CC6699?style=flat-square&logo=apollo&logoColor=311C87)
+![ApolloGraphql](https://img.shields.io/badge/-Apollo%20GraphQL-CC6699?style=flat-square&logo=apollo-graphql&logoColor=311C87)
 
 ### Hi there 👋
 
