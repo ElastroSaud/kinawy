@@ -18,7 +18,7 @@
   <br />
   <img src="RideReddit.gif" width="150px" height="100px"/>
   <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl&hide_border=true /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl&hide_border=true" /></p>
 
 <!--
 **kinawy/kinawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
