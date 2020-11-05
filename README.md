@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him/Her
 - ⚡ Fun fact: I'm half Irish half Egyptian
 
-![Sameh's github stats](https://github-readme-stats.vercel.app/api?username=kinawy&theme=nightowl&show_icons=true&hide=issues,stars&count_private=true&line_height=30) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl)
+![Sameh's github stats](https://github-readme-stats.vercel.app/api?username=kinawy&theme=nightowl&show_icons=true&hide=issues,stars&count_private=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl&line_height=20)
 
 <!--
 **kinawy/kinawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
