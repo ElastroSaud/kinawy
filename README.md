@@ -6,8 +6,8 @@
 - 📫 How to reach me: sameh.yasser.kinawy@gmail.com
 - 😄 Pronouns: He/Him/Her
 - ⚡ Fun fact: I'm half Irish half Egyptian
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kinawy&theme=nightowl&show_icons=true&hide=issues,stars&count_private=true&hide_border=true&height=10" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kinawy&theme=nightowl&show_icons=true&hide=issues,stars&count_private=true&hide_border=true&line_height=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinawy&layout=compact&theme=nightowl&hide_border=true" /></p>
 
 <!--
 **kinawy/kinawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
