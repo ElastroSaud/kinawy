@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Project 4 for General Assembly!
+- 🔭 I’m currently working on content to help teach a coding class!
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Python Scripts
 - 📫 How to reach me: sameh.yasser.kinawy@gmail.com
